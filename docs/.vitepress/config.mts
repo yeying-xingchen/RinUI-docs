@@ -36,6 +36,7 @@ export default defineConfig({
               { text: 'Theme', link: '/core/theme' },
               { text: 'Utils', link: '/core/utils' },
               { text: 'Float Layer Manager', link: '/core/floatLayer' },
+              { text: 'Get QQmlApplicationEngine', link: '/core/engine' }
             ]
           },
           {
@@ -115,7 +116,8 @@ export default defineConfig({
             items: [
               { text: '主题', link: '/zh/core/theme' },
               { text: '工具', link: '/zh/core/utils' },
-              { text: '浮层管理器', link: '/zh/core/floatLayer' }
+              { text: '浮层管理器', link: '/zh/core/floatLayer' },
+              { text: '获取QQmlApplicationEngine', link: '/zh/core/engine' }
             ]
           },
           {
